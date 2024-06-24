@@ -1,3 +1,3 @@
 # leetCode
 <br>
-Author -Mushraf
+Author -Mushraf(Mushraf)s
